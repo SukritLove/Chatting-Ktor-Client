@@ -5,5 +5,5 @@ This is Chatting (client-side) app using ktor socket
 - Desktop App
 - Physical Android Phone
 - Android Emulator
-- ## Can not
+## Can not
 - IOS App
