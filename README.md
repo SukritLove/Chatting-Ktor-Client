@@ -4,4 +4,6 @@ This is Chatting (client-side) app using ktor socket
 ## Can
 - Desktop App
 - Physical Android Phone
-- Android Emulator 
+- Android Emulator
+- ## Can not
+- IOS App
